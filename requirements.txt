@@ -1,0 +1,5 @@
+# PostgreSQL database driver
+psycopg2-binary==2.9.11
+
+# Load environment variables from .env
+python-dotenv==1.2.1
